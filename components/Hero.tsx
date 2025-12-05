@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
                   TODO: Replace the src below with your actual LinkedIn Profile Picture URL.
                 */}
                 <img 
-                    src="../1747308526509.jpg"
+                    src="https://res.cloudinary.com/dgyhiynsb/image/upload/v1764966622/profile_ledzyh.jpg"
                     alt="Chencho Wangdi" 
                     className="w-full h-full object-cover rounded-full grayscale group-hover:grayscale-0 transition-all duration-500"
                 />
