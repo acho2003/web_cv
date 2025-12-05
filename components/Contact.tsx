@@ -38,7 +38,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <div className="text-sm text-slate-500">Email</div>
-                  <div className="font-mono">chenchowangdi@example.com</div>
+                  <div className="font-mono">achochencho@gmail.com</div>
                 </div>
               </div>
 
@@ -48,7 +48,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <div className="text-sm text-slate-500">Phone</div>
-                  <div className="font-mono">+975 17 00 00 00</div>
+                  <div className="font-mono">+975 17 76 17 17</div>
                 </div>
               </div>
 
@@ -63,10 +63,10 @@ const Contact: React.FC = () => {
               </div>
               
               <div className="pt-6 flex gap-4">
-                <a href="#" className="p-3 bg-slate-800 rounded-full hover:bg-white hover:text-black transition-all transform hover:-translate-y-1">
+                <a href="https://www.linkedin.com/in/chencho-wangdi-370a43306/" className="p-3 bg-slate-800 rounded-full hover:bg-white hover:text-black transition-all transform hover:-translate-y-1">
                     <Linkedin size={20} />
                 </a>
-                <a href="#" className="p-3 bg-slate-800 rounded-full hover:bg-white hover:text-black transition-all transform hover:-translate-y-1">
+                <a href="https://github.com/acho2003" className="p-3 bg-slate-800 rounded-full hover:bg-white hover:text-black transition-all transform hover:-translate-y-1">
                     <Github size={20} />
                 </a>
               </div>
